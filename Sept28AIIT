@@ -1,0 +1,8 @@
+class Sept28AIIT
+{
+public static void main(String args[])
+{
+System.out.println("Sample Java program for Git and Github");
+}
+
+}
